@@ -2,3 +2,9 @@
 ## plain-dosa 
 * dosa batter
 * Light oil
+
+## karamdosa
+* dosa batter
+* karam
+* oil added
+* ghee
